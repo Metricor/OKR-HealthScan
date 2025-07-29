@@ -1,0 +1,6 @@
+﻿Feature_ID,OKR_ID,Title,PM_Owner,Progress_Percent,Blockers,Updated,Confidence_Level
+F1,O1,Track rollback rates,Sarah,80,None,2025-07-23,High
+F2,O1,Release dashboard for SLT,Daniel,50,Design issues,2025-07-10,Medium
+F3,O2,Churn prediction model,Amanda,30,Model drift,2025-06-28,Low
+F4,O2,Feedback loop integration,,0,,2025-06-10,Unknown
+
