@@ -1,0 +1,5 @@
+﻿"Story_ID,Feature_ID,Title,Status,Owner,Last_Updated,Confidence,Blocker"
+"S1,F1,Tag failed deploys,In Progress,Michael,2025-07-23,Medium,No"
+"S2,F1,Calculate rollback weekly,Delayed,Ethan,2025-07-21,Low,Yes"
+"S3,F3,Model precision evaluation,Not Started,Olivia,2025-07-15,Unknown,Yes"
+"S4,F4,UX feedback form on churn reason,In Progress,,2025-07-05,Low,No"
