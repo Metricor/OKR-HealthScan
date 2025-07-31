@@ -17,4 +17,4 @@ This phase focuses on defining the core inputs for the tool, conceptualizing the
 ## Future Phases
 - **Phase 2:** Core Logic Development (Processing)
 - **Phase 3:** Visualization & Dashboard Development (Outputs & Visuals)
-- **Phase 4:** Refinement, Testing & Storytelling
+- **Phase 4:** Refinement, Testing
